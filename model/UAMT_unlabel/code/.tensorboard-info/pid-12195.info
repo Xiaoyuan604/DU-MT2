@@ -1,0 +1,10 @@
+{
+    "cache_key": "eyJhcmd1bWVudHMiOlsiLS1sb2dkaXI9L2hvbWUvcXdlL2RhdGEvd2VueGlhb3l1YW4vRFUtVUEtTVQvVUEtTVQtbWFzdGVyL21vZGVsL1VBTVRfdW5sYWJlbC9sb2ciLCItLWJpbmRfYWxsIl0sImNvbmZpZ3VyZV9rd2FyZ3MiOnt9LCJ3b3JraW5nX2RpcmVjdG9yeSI6Ii9ob21lL3F3ZS9kYXRhL3dlbnhpYW95dWFuL0RVLVVBLU1UL1VBLU1ULW1hc3Rlci9jb2RlIn0=",
+    "db": "",
+    "logdir": "/home/qwe/data/wenxiaoyuan/DU-UA-MT/UA-MT-master/model/UAMT_unlabel/log",
+    "path_prefix": "",
+    "pid": 12195,
+    "port": 6006,
+    "start_time": 1725460703,
+    "version": "2.17.1"
+}
